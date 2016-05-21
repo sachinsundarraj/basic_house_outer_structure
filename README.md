@@ -1,0 +1,1 @@
+# basic_house_outer_structure
